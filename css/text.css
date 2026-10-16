@@ -1,0 +1,76 @@
+.container{
+background-color: green;
+}
+
+
+.container h1{
+    color: white;
+text-align: center;
+text-decoration: underline;
+text-transform: uppercase;
+text-shadow: 10px 10px 3px grey;
+
+font-family: 'Times New Roman', Times, serif;
+font-size: 50;
+font-weight: lighter;
+font-style: italic;
+
+}
+
+
+/* box model */
+
+/* MARGIN */
+/* margin right */
+/* margin left */
+/* margin bottom */
+/* margin top */
+
+
+
+
+/* padding */
+/* border */
+
+
+
+
+.container{
+    -color: green;
+    color: white;
+    /* margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50backgroundpx;
+    margin-bottom: 50px; */
+
+    margin: 0px 100px;
+
+
+    padding-left:30px;
+    padding-right: 30px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+    border-top: 10px solid yellow;
+    border-bottom: 10px dashed brown;
+    border-left: 10px dotted blue;
+    border-right: 10px groove red;
+
+    /* border all round */
+
+    /* height */
+    /* width */
+    /* min-heihght */
+    /* min-width */
+    /* box-sizing */
+
+    .box{
+        background-color: blue;
+        height: 50px;
+        width: 300px;
+        padding: 5px;
+        
+
+    }
+
+}
